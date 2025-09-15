@@ -2,12 +2,15 @@
 This project implements a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify MRI images into two categories:
 1. Healthy Brain
 2. Tumor (Glioma)
+
 The goal is to assist in the early detection of brain tumors through deep learning–based image classification.
 
 ## Features
 
 Lightweight CNN architecture (easy to train).
+
 Works with variable image sizes (resized internally).
+
 Binary classification (Healthy vs Tumor).
 
 
