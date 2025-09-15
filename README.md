@@ -12,16 +12,16 @@ Binary classification (Healthy vs Tumor).
 
 
 ### first brain pic of classification photo
-![Movie Recommender Screenshot](images/demo1.png)
+![Brain Mri Screenshot](images/demo1.png)
 
 ### Second brain pic of classification photo
-![Movie Recommender Screenshot](images/demo2.png)
+![Brain Mri Screenshot](images/demo2.png)
 
 ### Third brain pic of classification photo
-![Movie Recommender Screenshot](images/demo3.png)
+![Brain Mri Screenshot](images/demo3.png)
 
 ### fourth brain pic of classification photo
-![Movie Recommender Screenshot](images/demo4.png)
+![Brain Mri Screenshot](images/demo4.png)
 
 
 
