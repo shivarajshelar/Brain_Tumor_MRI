@@ -20,6 +20,8 @@ Binary classification (Healthy vs Tumor).
 ### Third brain pic of classification photo
 ![Movie Recommender Screenshot](images/demo3.png)
 
+### fourth brain pic of classification photo
+![Movie Recommender Screenshot](images/demo4.png)
 
 
 
